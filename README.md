@@ -1,4 +1,4 @@
-# SmartTaskScheduler
+# Smart Task Scheduler
 This project is an intelligent time-management and scheduling tool built in Python. Instead of just being a static to-do list, this application acts as a personal productivity assistant. You provide your tasks, their deadlines, and the estimated number of hours required to complete them. The application's algorithm then automatically generates a daily work schedule, fitting your tasks into your available working hours so you never miss a deadline.
 
 ### 🚀 Key Features
